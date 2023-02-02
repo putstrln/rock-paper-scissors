@@ -1,0 +1,10 @@
+{
+  "dependencies": {
+    "brain.js": "^2.0.0-beta.18",
+    "enquirer": "^2.3.6",
+    "gpu.js": "^2.16.0"
+  },
+  "scripts": {
+    "start": "node index.js"
+  }
+}
